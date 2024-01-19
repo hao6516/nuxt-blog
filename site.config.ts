@@ -1,6 +1,6 @@
 export const siteConfig = {
-  author: 'Rock Chen',
-  title: 'Rock Chen - Blog',
+  author: 'Bruno.Liu',
+  title: 'Bruno.Liu - Blog',
   description: 'My blog site.',
   lang: 'zh-CN',
 }
@@ -52,22 +52,22 @@ export const navLinks = [
 export const socialLinks = [
   {
     title: '掘金',
-    path: 'https://juejin.cn/user/3826745248595550',
+    path: 'https://juejin.cn/user/2729437753253357',
     icon: 'i-simple-icons-juejin',
   },
-  {
-    title: 'Bilibili',
-    path: 'https://space.bilibili.com/3850132',
-    icon: 'i-simple-icons-bilibili',
-  },
-  {
-    title: 'Twitter',
-    path: 'https://twitter.com/Rockchen97',
-    icon: 'i-simple-icons-twitter',
-  },
+  // {
+  //   title: 'Bilibili',
+  //   path: 'https://space.bilibili.com/3850132',
+  //   icon: 'i-simple-icons-bilibili',
+  // },
+  // {
+  //   title: 'Twitter',
+  //   path: 'https://twitter.com/Rockchen97',
+  //   icon: 'i-simple-icons-twitter',
+  // },
   {
     title: 'Github',
-    path: 'https://github.com/chansee97',
+    path: 'https://github.com/hao6516',
     icon: 'i-icon-park-outline-github',
   },
 ]
@@ -76,31 +76,31 @@ export const projectList = [
   {
     name: 'Projects',
     content: [
-      {
-        name: 'Nuxt Blog',
-        desc: 'My blog site, base on Nuxt',
-        path: 'https://github.com/chansee97/nuxt-blog',
-      },
-      {
-        name: 'Nova Admin',
-        desc: 'a complete admin template',
-        path: 'https://github.com/chansee97/nova-admin',
-      },
-      {
-        name: 'Nova Admin Nest',
-        desc: 'The nest backend for nova admin',
-        path: 'https://github.com/chansee97/nove-admin-nest',
-      },
+      // {
+      //   name: 'Nuxt Blog',
+      //   desc: 'My blog site, base on Nuxt',
+      //   path: 'https://github.com/chansee97/nuxt-blog',
+      // },
+      // {
+      //   name: 'Nova Admin',
+      //   desc: 'a complete admin template',
+      //   path: 'https://github.com/chansee97/nova-admin',
+      // },
+      // {
+      //   name: 'Nova Admin Nest',
+      //   desc: 'The nest backend for nova admin',
+      //   path: 'https://github.com/chansee97/nove-admin-nest',
+      // },
     ],
   },
   {
     name: 'Starter',
     content: [
-      {
-        name: 'Virtuoso',
-        desc: 'My simply vue starter',
-        path: 'https://github.com/chansee97/virtuoso',
-      },
+      // {
+      //   name: 'Virtuoso',
+      //   desc: 'My simply vue starter',
+      //   path: 'https://github.com/chansee97/virtuoso',
+      // },
     ],
   },
 ]

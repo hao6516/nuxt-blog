@@ -1,11 +1,11 @@
-# Rock Chen
+# Bruno.Liu
 
 ### 爱好？
-喜欢编程，喜欢学习，喜欢不能当饭吃的哲学，喜欢写被现代打印代替的钢笔字
-
+sign、jump、rap and basketball~
 ### 博客？
-Github: https://github.com/chansee97
+Github: https://github.com/hao6516
 
+juejin: https://juejin.cn/user/2729437753253357
 ### 我的技能？
 
 <div class="skill-wrapper">
@@ -16,11 +16,11 @@ Github: https://github.com/chansee97
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"></img>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/weapp-07C160?style=for-the-badge&logo=wechat&logoColor=white"></img>
+  <!-- <img src="https://img.shields.io/badge/weapp-07C160?style=for-the-badge&logo=wechat&logoColor=white"></img>
   <img src="https://img.shields.io/badge/node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img>
   <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"></img>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></img> -->
 </div>
 <div class="skill-wrapper">
   <img src="https://img.shields.io/badge/nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"></img>
@@ -43,7 +43,7 @@ Github: https://github.com/chansee97
 
 ### 我是谁？
 
-我是 Rock Chen, 一个前端
+我是 Bruno.Liu, 一个不摆烂的前端程序员
 
 联系我：
-- 📨 chen.dev@foxmail.com
+- 📨 15295066597@163.com

@@ -37,11 +37,18 @@ watch(searchValue, getQueryResult)
     Search
   </h1>
   <div class="slide-enter-content">
-    <input v-model="searchValue" placeholder="Search post title / description / tag" class="search-input mb-2em">
+    <input
+      v-model="searchValue"
+      placeholder="Search post title / description / tag"
+      class="search-input mb-2em"
+    >
     <ul>
       <cell
-        v-for="(article, index) in queryResult" :key="article._path" :article="article"
-        slide-enter :style="{ '--stagger': index + 1 }"
+        v-for="(article, index) in queryResult"
+        :key="article._path"
+        :article="article"
+        slide-enter
+        :style="{ '--stagger': index + 1 }"
       />
     </ul>
   </div>
